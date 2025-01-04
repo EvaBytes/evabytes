@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there! 🌱
+I'm Eva, a Junior Web Developer, who’s fueled by coffee and curiosity ☕💡. I'm constantly learning new things, building cool projects, and pushing my limits. Check out my work, and let’s create something amazing together! 🚀
 
 <!--
 **EvaBytes/evabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
