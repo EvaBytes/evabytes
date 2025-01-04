@@ -1,7 +1,6 @@
-## Hey there! 🌱
-I'm Eva, a Junior Web Developer, who’s fueled by coffee and curiosity ☕💡. I'm constantly learning new things, building cool projects, and pushing my limits. Check out my work, and let’s create something amazing together! 🚀
+## Hi, I'm Eva! 🌱
+I’m a Junior Web Developer fueled by coffee and curiosity ☕💡. I’m passionate about learning new things, building exciting projects, and pushing my limits. Check out my work, and let’s create something amazing together! 🚀
 
-[![Evabytes's GitHub stats](https://github-readme-stats.vercel.app/api?username=evabytes)](https://github.com/evabytes/github-readme-stats)
+<img alt="my stats" align="left" width="48%" height="140%" src="https://github-readme-stats.vercel.app/api?username=evabytes"/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evabytes&layout=donut-vertical)](https://github.com/evabytes/github-readme-stats)
+<img alt="top langs" align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
